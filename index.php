@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <title>Navbar Example</title>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" type="text/css" href="style.css">
    </head>
    <body>
       <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
